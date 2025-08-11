@@ -1,0 +1,9 @@
+# Ignore OS and editor files
+.DS_Store
+*.swp
+*.swo
+.vscode/
+__pycache__/
+.env
+node_modules/
+.Garbage/
